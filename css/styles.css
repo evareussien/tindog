@@ -1,0 +1,49 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+
+button {
+  margin-right: 20px;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  font-weight: 400;
+}
+
+.navbar {
+  padding: 0;
+  padding-bottom: 4.5rem;
+}
+
+.nav-link {
+  margin-left: 40px;
+  font-size: 1.2em;
+}
+
+.title-image {
+  transform: rotate(20deg);
+  position: relative;
+  width: 60%;
+
+}
+
+#title {
+  background-color: #ff4c68;
+  overflow: hidden;
+  height: 700px;
+  color: white;
+}
