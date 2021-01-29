@@ -41,9 +41,29 @@ button {
 
 }
 
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+
+.features {
+  text-align: center;
+  padding: 0 40px;
+}
+
+.featuredIcon {
+  margin-bottom: 10px;
+}
+
 #title {
   background-color: #ff4c68;
   overflow: hidden;
   height: 700px;
   color: white;
+}
+
+#features {
+  padding: 100px 200px;
 }
